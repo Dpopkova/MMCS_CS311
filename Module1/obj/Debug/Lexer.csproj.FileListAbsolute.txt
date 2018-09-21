@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\bin\Debug\Lexer.exe.config
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\bin\Debug\Lexer.exe
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\bin\Debug\Lexer.pdb
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\obj\Debug\Lexer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\obj\Debug\Lexer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\obj\Debug\Lexer.exe
+C:\Users\User\Desktop\MMCS_CS311-master\Module1\obj\Debug\Lexer.pdb
